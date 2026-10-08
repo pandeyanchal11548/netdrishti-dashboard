@@ -1,0 +1,38 @@
+:root {
+  /* Colors (requirements section 3) */
+  --color-bg: #0f1115;
+  --color-surface: #1a1d23;
+  --color-surface-raised: #232b2c;
+  --color-border: #2d333b;
+  --color-text: #dce4e4;
+  --color-text-secondary: #b9cacb;
+  --color-action: #00f2ff;
+  --color-warning: #fed83a;
+  --color-error: #ffb4ab;
+
+  /* Spacing: multiples of 4 px */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-6: 24px;
+  --space-8: 32px;
+
+  /* Corners */
+  --radius-control: 4px;
+  --radius-card: 8px;
+
+  /* Typography */
+  --font-family: Inter, Arial, sans-serif;
+  --fs-page-title: 24px;
+  --fs-section-title: 18px;
+  --fs-card-title: 14px;
+  --fs-body: 14px;
+  --fs-helper: 12px;
+
+  /* Layout */
+  --sidebar-width: 264px;
+  --header-height: 64px;
+  --grid-gap: 16px;
+  --page-padding: 24px;
+}
